@@ -12,10 +12,8 @@ The following **required** user stories are complete:
 - [x] User can scroll through a list of movies currently playing in theaters from The Movie DB API (+5pt)
 - [x] User can "Pull to refresh" the movie list (+2pt)
 - [x] User sees a loading state while waiting for the movies to load (+2pt)
-- [x] Movie feed view (+3pt)
-- [x] Detail view (+2pt)
-- [x] Dynamic Height Cells (+1)
-- [x] Collection View AutoLayout (+2)
+- [x] User can tap a cell to see a detail view (+5pts)
+- [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 
 The following **stretch** user stories are implemented:
 
@@ -39,7 +37,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/zGrmhbz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/6a68F5b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -63,3 +61,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
