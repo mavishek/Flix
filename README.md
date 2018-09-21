@@ -14,6 +14,10 @@ The following **required** user stories are complete:
 - [x] User sees a loading state while waiting for the movies to load (+2pt)
 - [x] User can tap a cell to see a detail view (+5pts)
 - [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
+- [x] Movie feed view (+3pt)
+- [x] Detail view (+2pt)
+- [x] Dynamic Height Cells (+1)
+- [x] Collection View AutoLayout (+2)
 
 The following **stretch** user stories are implemented:
 
