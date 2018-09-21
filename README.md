@@ -12,6 +12,10 @@ The following **required** user stories are complete:
 - [x] User can scroll through a list of movies currently playing in theaters from The Movie DB API (+5pt)
 - [x] User can "Pull to refresh" the movie list (+2pt)
 - [x] User sees a loading state while waiting for the movies to load (+2pt)
+- [x] Movie feed view (+3pt)
+- [x] Detail view (+2pt)
+- [x] Dynamic Height Cells (+1)
+- [x] Collection View AutoLayout (+2)
 
 The following **stretch** user stories are implemented:
 
