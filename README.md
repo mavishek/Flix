@@ -16,11 +16,9 @@ The following **required** user stories are complete:
 - [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 - [x] Movie feed view (+3pt)
 - [x] Detail view (+2pt)
-- [x] Dynamic Height Cells (+1)
-- [x] Collection View AutoLayout (+2)
 
 The following **stretch** user stories are implemented:
-
+- [x] Dynamic Height Cells (+1)
 - [ ] User sees an alert when there's a networking error (+1pt)
 - [ ] User can search for a movie (+3pt)
 - [ ] While poster is being fetched, user see's a placeholder image (+1pt)
@@ -41,7 +39,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/6a68F5b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wBwdl2Y.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
