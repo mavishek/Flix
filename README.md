@@ -16,6 +16,10 @@ The following **required** user stories are complete:
 - [x] User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView (+5pts)
 - [x] Movie feed view (+3pt)
 - [x] Detail view (+2pt)
+- [x] Create a movie model (+2pt)
+- [x] Implement the movie model (+2pt)
+- [x] Implement property observers (+2pt)
+- [x] Create a basic API Client (+2pt)
 
 The following **stretch** user stories are implemented:
 - [x] Dynamic Height Cells (+1)
